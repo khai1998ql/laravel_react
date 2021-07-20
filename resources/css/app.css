@@ -1,0 +1,20 @@
+.mb-20{
+    margin-bottom: 20px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mr-5{
+    margin-right: 5px;
+}
+.checkbox{
+    margin-left: 20px !important;
+}
+.disFlex{
+    display: flex;
+    justify-content: space-between;
+}
+.image_avatar{
+    width: 100px;
+    height: 150px;
+}
